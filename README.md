@@ -19,7 +19,7 @@ override func viewDidLayoutSubviews() {
 ```
 
 ## How it looks like
-![alt tag]()
+![alt tag](https://github.com/tib/LongShadow/blob/master/preview.png)
 
 ## License
 WTFPL
